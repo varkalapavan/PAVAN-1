@@ -1,0 +1,7 @@
+TO CLONE
+
+Make a folder intiliaze to git using git init
+
+Type ls -a to know whether it is initialized or not (can skip)
+
+Type git clone (link address) to clone the files to your folder
